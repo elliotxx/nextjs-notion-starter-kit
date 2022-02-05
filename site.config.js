@@ -7,7 +7,7 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '自留地',
+  name: '数字游民',
   domain: 'yangyingming.com',
   author: '杨英明',
 
